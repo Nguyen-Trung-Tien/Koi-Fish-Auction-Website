@@ -24,8 +24,8 @@ Với giao diện thân thiện, người dùng có thể dễ dàng duyệt cá
 ## 🛠️ Công Nghệ Sử Dụng
 - **Backend:** Java (Spring Boot hoặc Java EE)  
 - **Frontend:** React.js  
-- **Database:** MySQL / PostgreSQL (tuỳ chọn)  
-- **Thanh toán:** Tích hợp cổng thanh toán (VNPay, PayPal, hoặc Stripe)  
+- **Database:** MySQL  
+- **Thanh toán:** Tích hợp cổng thanh toán
 
 ---
 
