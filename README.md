@@ -22,18 +22,16 @@ Với giao diện thân thiện, người dùng có thể dễ dàng duyệt cá
 ---
 
 ## 🛠️ Công Nghệ Sử Dụng
-- **Backend:** Java (Spring Boot hoặc Java EE)  
+- **Backend:** Java (Spring Boot)  
 - **Frontend:** React.js  
 - **Database:** MySQL  
-- **Thanh toán:** Tích hợp cổng thanh toán
-
 ---
 
 ## 🚀 Hướng Dẫn Cài Đặt và Chạy Ứng Dụng
 
 ### Yêu cầu
 - Java 11+  
-- Node.js & npm/yarn  
+- Node.js & npm
 - IDE: IntelliJ, Eclipse (backend), VSCode (frontend)  
 - Database: MySQL  
 ---
