@@ -32,7 +32,7 @@ Với giao diện thân thiện, người dùng có thể dễ dàng duyệt cá
 ### Yêu cầu
 - Java 11+  
 - Node.js & npm
-- IDE: IntelliJ, Eclipse (backend), VSCode (frontend)  
+- IDE: IntelliJ (backend), VSCode (frontend)  
 - Database: MySQL  
 ---
 ### Cài đặt
